@@ -14,7 +14,6 @@ namespace ConsoleApp4
             Console.WriteLine("from github");
                 Console.WriteLine("change vs");
                 Console.WriteLine("mounika");
-            Console.WriteLine("welcome");
             Console.ReadLine();
 
         }
