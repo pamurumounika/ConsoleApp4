@@ -12,6 +12,7 @@ namespace ConsoleApp4
         {
             Console.WriteLine("hello world");
             Console.WriteLine("from github");
+                Console.WriteLine("change vs");
             Console.ReadLine();
 
         }
